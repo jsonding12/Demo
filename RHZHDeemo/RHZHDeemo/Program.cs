@@ -9,6 +9,7 @@ namespace RHZHDeemo
     class Program
     {
         public int carspeed = 90;
+        public string ss="nihao";
         static void Main(string[] args)
         {
            
